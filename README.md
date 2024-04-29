@@ -19,8 +19,8 @@ lo que si cumple esta condición el número ingresado es primo, de lo contrario 
 función nnarcisista() se comporta de manera similar a la anterior, se descarta el caso 0, busca la cantidad
 de cifras y luego mediante un for va sumando los dígitos elevados a su número de cifras, cumpliendo la
 siguiente fórmula
-$$ n = d^k_{k}+d^k_{k-1}+\cdots+d^k_{k2}+d^k_{1}$$
-con $k$ el número de cifras y los dígitos variado entre $0 \leq di \leq 9$. Finalmente, los números que cumplan los
+$$n = d^k_{k}+d^k_{k-1}+\cdots+d^k_{k2}+d^k_{1}$$
+con $k$ el número de cifras y los dígitos variado entre $0 \leq d_i \leq 9$. Finalmente, los números que cumplan los
 requisitos son impresos y los que no son rechazados.
 
 ### Compilación:
