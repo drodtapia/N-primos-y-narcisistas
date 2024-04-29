@@ -40,7 +40,7 @@ Una vez compilado, ejecuta el programa proporcionando y siga las instrucciones p
 Compilador de C++ compatible.
 
 ### Ejemplos y Demostraciones:
-Una vez compilado, ejecuta el programa proporcionando y siga las instrucciones proporcionadas en pantalla
+Una vez compilado, ejecuta el programa proporcionando y siga las instrucciones proporcionadas en pantalla, a continuación se muestra un ejemplo del programa:
 ```mathematica
 $ ./num
 
